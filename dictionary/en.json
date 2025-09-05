@@ -1,0 +1,154 @@
+{
+    "LocaleSwitcher": {
+        "bn": "বাংলা",
+        "en": "English",
+        "label": "Language"
+    },
+    "auth": {
+        "login": "Login",
+        "register": "Sign up"
+    },
+    "blog": {
+        "date": "Date:",
+        "viewMore": "Read More"
+    },
+    "navigation": {
+        "title": "DFCL Business",
+        "header": {
+            "home": "Home",
+            "about": "About",
+            "services": "Services",
+            "contact": "Contact",
+            "blog": "Blog",
+            "login": "Login",
+            "register": "Signup"
+        },
+        "footer": {
+            "about": "About Us",
+            "blog": "Blog",
+            "terms": "Terms",
+            "privacy": "Privacy",
+            "code": "Code",
+            "copyright": "Copyright",
+            "trademark": "Trademark",
+            "payment": "Payment",
+            "investors": "Investors",
+            "contact": "Contact",
+            "career": "Career",
+            "faq": "FAQ"
+        }
+    },
+    "landing": {
+        "solutions": {
+            "title": "Services you will get as a Service Partner",
+            "button": "Details",
+            "1": {
+                "title": "Highest Market Rate"
+            },
+            "2": {
+                "title": "Training and Support"
+            },
+            "3": {
+                "title": "Fastest Payout"
+            },
+            "4": {
+                "title": "24/7 Customer Support"
+            }
+        },
+        "tryus": {
+            "title": "DFCL Business account is a fantastic way to digitize your business and increase your income.",
+            "description": "Apply today and see how DFCL can help you!",
+            "login": "Login",
+            "signup": "Sign up"
+        },
+
+        "offerings": {
+            "title": "With DFCL Business account, you will get",
+            "1": {
+                "title": "An Online Profile",
+                "description": "which shows your business information and contact details"
+            },
+            "2": {
+                "title": "A Resource Management Tool",
+                "description": "which helps you manage your resources"
+            },
+            "3": {
+                "title": "Customer Service Portal",
+                "description": "which helps you manage your customers."
+            },
+            "4": {
+                "title": "Service Management System",
+                "description": "which helps you track and manage your business."
+            }
+        },
+        "appSection": {
+            "title": "Make your business digital with DFCL Business App",
+            "button": "Create Account Now"
+        },
+        "blog": "What's new in DFCL Business",
+        "statistics": {
+            "users": {
+                "title": "Happy Users",
+                "users": "Happy Users",
+                "experts": "Verified Experts",
+                "services": "Services"
+            },
+            "coverage": {
+                "title": "Coverage Area",
+                "division": "Division",
+                "district": "District",
+                "thana": "Thana"
+            }
+        },
+
+        "payment": { "title": "We Accept" },
+        "approvedTitle": "Approved By"
+    },
+    "about": {
+        "title": "About Us",
+        "story": {
+            "title": "THE STORY OF DFCL",
+            "description": "The story of dSmart Finger Communication, was starting their journey from December 12, 2017, and become as a dSmart Finger Communication Ltd. (DFCL), in on March 18, 2024, is one of innovation, determination and commitment to serve the community. Founded by Zahidul Alam Rubel who recognized the need for reliable and affordable handyman services in Bangladesh, DFCL has set out to revolutionize the industry by embracing technology and prioritizing customer satisfaction.",
+            "1": {
+                "title": "Early Beginnings",
+                "description": "In its initial stages, DFCL operated with a small team and a limited range of services, primarily catering to households in the Dhaka city area. Despite these constraints, the company quickly gained recognition for its professionalism, promptness, and dedication to quality. Word-of-mouth recommendations spread, and DFCL's client base steadily expanded."
+            },
+            "2": {
+                "title": "Embracing Technology",
+                "description": "DFCL was among the first handyman service providers in Bangladesh to embrace technology, recognizing its potential to improve efficiency, transparency, and customer engagement. The company developed a user-friendly online platform where customers could easily book appointments, track their service requests, and provide feedback. This streamlined approach made DFCL stand out from its competitors and further enhanced its reputation for reliability and convenience."
+            },
+            "3": {
+                "title": "Social Responsibility",
+                "description": "DFCL has always been committed to giving back to the community. The company actively participates in local initiatives, providing handyman services to underprivileged families, educational institutions, and non-profit organizations. This commitment to social responsibility underscores DFCL's values of compassion and service beyond profit."
+            },
+            "4": {
+                "title": "A Legacy of Excellence",
+                "description": "Today, DFCL stands as a leading provider of handyman services in Bangladesh, recognized for its unwavering commitment to quality, customer satisfaction, and community engagement. The company's story is a testament to the power of innovation, determination, and a genuine desire to make a positive impact on the lives of others. As DFCL continues to evolve and expand, its mission remains the same: to provide reliable, affordable, and high-quality handyman services to households and businesses across Bangladesh, making life easier and more convenient for everyone."
+            }
+        },
+        "missionvision": "MISSION & VISION",
+        "mission": {
+            "title": "MISSION",
+            "description": "To provide reliable, affordable, and high-quality handyman services to households and corporate sector across Bangladesh. DFCL strive to make life easier and more convenient for our customers by offering a wide range of services, maintaining a team of experienced and skilled professionals, and upholding a commitment to customer satisfaction."
+        },
+        "vision": {
+            "title": "VISION",
+            "description": "To become the leading provider of handyman services in Bangladesh, recognized for our excellence, reliability, and dedication to serving our community. DFCL envision a future where our services are accessible to everyone, making a positive impact on the lives of countless individuals and families."
+        },
+        "bod": {
+            "title": "Board of Director",
+            "chairman": {
+                "name": "Akhi Alam Talukdar",
+                "designation": "Chairman"
+            },
+            "md": {
+                "name": "Zahidul Alam Rubel",
+                "designation": "Managing Director"
+            }
+        },
+        "brands": {
+            "title": "Our Products"
+        },
+        "approved": "Approved by"
+    }
+}
